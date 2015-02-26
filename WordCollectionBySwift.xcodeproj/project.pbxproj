@@ -80,6 +80,8 @@
 				705F22F11A9EBFC1005596A5 /* AppDelegate.swift */,
 				705F22F31A9EBFC1005596A5 /* ViewController.swift */,
 				705F22F51A9EBFC1005596A5 /* Main.storyboard */,
+				705F23121A9EC107005596A5 /* EnglishWord */,
+				705F23111A9EC0EC005596A5 /* JapaneseWord */,
 				705F22F81A9EBFC1005596A5 /* Images.xcassets */,
 				705F22FA1A9EBFC1005596A5 /* LaunchScreen.xib */,
 				705F22EF1A9EBFC1005596A5 /* Supporting Files */,
@@ -110,6 +112,20 @@
 				705F23061A9EBFC1005596A5 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		705F23111A9EC0EC005596A5 /* JapaneseWord */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = JapaneseWord;
+			sourceTree = "<group>";
+		};
+		705F23121A9EC107005596A5 /* EnglishWord */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = EnglishWord;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
