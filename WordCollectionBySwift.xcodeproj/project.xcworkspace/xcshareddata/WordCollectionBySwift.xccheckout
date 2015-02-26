@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12B0279D-2080-4682-9676-906A9E783649</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WordCollectionBySwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A6AE236AA99902B72B8F0AEF58F17410372BE64</key>
+		<string>https://github.com/Daisukedayon/WordCollectionBySwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WordCollectionBySwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A6AE236AA99902B72B8F0AEF58F17410372BE64</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Daisukedayon/WordCollectionBySwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A6AE236AA99902B72B8F0AEF58F17410372BE64</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A6AE236AA99902B72B8F0AEF58F17410372BE64</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WordCollectionBySwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
