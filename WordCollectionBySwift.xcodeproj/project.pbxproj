@@ -15,6 +15,7 @@
 		705F23081A9EBFC1005596A5 /* WordCollectionBySwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23071A9EBFC1005596A5 /* WordCollectionBySwiftTests.swift */; };
 		705F23141A9EC406005596A5 /* MedicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23131A9EC406005596A5 /* MedicalWordStore.swift */; };
 		705F23161AA0839F005596A5 /* ModernSocialWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23151AA0839F005596A5 /* ModernSocialWord.swift */; };
+		705F23181AA08846005596A5 /* PhysicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23171AA08846005596A5 /* PhysicalWordStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		705F23071A9EBFC1005596A5 /* WordCollectionBySwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordCollectionBySwiftTests.swift; sourceTree = "<group>"; };
 		705F23131A9EC406005596A5 /* MedicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MedicalWordStore.swift; sourceTree = "<group>"; };
 		705F23151AA0839F005596A5 /* ModernSocialWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModernSocialWord.swift; sourceTree = "<group>"; };
+		705F23171AA08846005596A5 /* PhysicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhysicalWordStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 			children = (
 				705F23131A9EC406005596A5 /* MedicalWordStore.swift */,
 				705F23151AA0839F005596A5 /* ModernSocialWord.swift */,
+				705F23171AA08846005596A5 /* PhysicalWordStore.swift */,
 			);
 			name = JapaneseWord;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				705F23181AA08846005596A5 /* PhysicalWordStore.swift in Sources */,
 				705F23141A9EC406005596A5 /* MedicalWordStore.swift in Sources */,
 				705F23161AA0839F005596A5 /* ModernSocialWord.swift in Sources */,
 				705F22F41A9EBFC1005596A5 /* ViewController.swift in Sources */,

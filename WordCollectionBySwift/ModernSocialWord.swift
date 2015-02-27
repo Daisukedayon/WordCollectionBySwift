@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ModernSocialWordStore{
+class ModernSocialWord{
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         
