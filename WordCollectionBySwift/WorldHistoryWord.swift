@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ChemicalWordStore{
+class WorldHistoryWordStore{
     class func returnCaption() -> String{
         return "世界史用語"
     }
@@ -28,7 +28,7 @@ class ChemicalWordStore{
             "四大文明","人種","白色人種","黄色人種","黒色人種","民族","語族","インド＝ヨーロッパ語族",
             "アフロ＝アジア語族","セム語系","エジプト語系","ウラル語族","アルタイ語族","シナ＝チベット語族",
             "マレー＝ポリネシア語族","南アジア語族","ドラヴィダ語族","アフリカ諸語","アメリカ諸語"];
-        ReturningWordArray += wordArray
+        ReturnWordArray += wordArray
         
         wordArray = ["オリエント","メソポタミア","ティグリス川・ユーフラテス川","肥沃な三日月地帯","セム語系",
             "アフロ＝アジア語系","シュメール人","ウル","ウルク","ウガシュ","神権政治","都市国家","階級",
