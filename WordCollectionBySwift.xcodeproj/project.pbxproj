@@ -19,6 +19,7 @@
 		705F231A1AA119D1005596A5 /* OpticalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23191AA119D1005596A5 /* OpticalWordStore.swift */; };
 		705F231C1AA13DBB005596A5 /* ITWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231B1AA13DBB005596A5 /* ITWordStore.swift */; };
 		705F231E1AA149AE005596A5 /* EthicalWordStoreJp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */; };
+		705F23201AA15083005596A5 /* BiologicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231F1AA15083005596A5 /* BiologicalWordStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		705F23191AA119D1005596A5 /* OpticalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpticalWordStore.swift; sourceTree = "<group>"; };
 		705F231B1AA13DBB005596A5 /* ITWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ITWordStore.swift; sourceTree = "<group>"; };
 		705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EthicalWordStoreJp.swift; sourceTree = "<group>"; };
+		705F231F1AA15083005596A5 /* BiologicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BiologicalWordStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 				705F23191AA119D1005596A5 /* OpticalWordStore.swift */,
 				705F231B1AA13DBB005596A5 /* ITWordStore.swift */,
 				705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */,
+				705F231F1AA15083005596A5 /* BiologicalWordStore.swift */,
 			);
 			name = JapaneseWord;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				705F231E1AA149AE005596A5 /* EthicalWordStoreJp.swift in Sources */,
 				705F23181AA08846005596A5 /* PhysicalWordStore.swift in Sources */,
 				705F23141A9EC406005596A5 /* MedicalWordStore.swift in Sources */,
+				705F23201AA15083005596A5 /* BiologicalWordStore.swift in Sources */,
 				705F23161AA0839F005596A5 /* ModernSocialWord.swift in Sources */,
 				705F22F41A9EBFC1005596A5 /* ViewController.swift in Sources */,
 				705F231A1AA119D1005596A5 /* OpticalWordStore.swift in Sources */,
