@@ -9,6 +9,10 @@
 import Foundation
 
 class ITWordStoreStore{
+    class func returnCaption() -> String{
+        return "IT用語"
+    }
+    
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         

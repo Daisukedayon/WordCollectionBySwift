@@ -9,6 +9,11 @@
 import Foundation
 
 class PhysicalWordStore{
+
+    class func returnCaption() -> String{
+        return "物理学用語"
+    }
+
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         

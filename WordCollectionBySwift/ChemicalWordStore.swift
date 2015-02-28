@@ -9,6 +9,10 @@
 import Foundation
 
 class ChemicalWordStore{
+    class func returnCaption() -> String{
+        return "化学用語"
+    }
+    
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         

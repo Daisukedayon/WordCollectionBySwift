@@ -9,6 +9,10 @@
 import Foundation
 
 class ModernSocialWord{
+    class func returnCaption() -> String{
+        return "現代社会用語"
+    }
+    
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         

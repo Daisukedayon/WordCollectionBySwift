@@ -8,7 +8,11 @@
 
 import Foundation
 
-class ITWordStoreStore{
+class EthicalStoreStore{
+    class func returnCaption() -> String{
+        return "倫理用語"
+    }
+    
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         

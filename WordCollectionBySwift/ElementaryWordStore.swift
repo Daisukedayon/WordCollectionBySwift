@@ -9,6 +9,10 @@
 import Foundation
 
 class ChemicalWordStore{
+    class func returnCaption() -> String{
+        return "一般用語"
+    }
+    
     class func ReturningWordArray() -> Array<String>{
         var ReturnWordArray:[String] = []
         var wordArray = ["心にくい","熱を上げる","見下す","反論","均等","ありきたり","強制的","頭ごなし",
