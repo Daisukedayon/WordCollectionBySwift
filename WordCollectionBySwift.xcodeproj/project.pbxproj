@@ -20,6 +20,7 @@
 		705F231C1AA13DBB005596A5 /* ITWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231B1AA13DBB005596A5 /* ITWordStore.swift */; };
 		705F231E1AA149AE005596A5 /* EthicalWordStoreJp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */; };
 		705F23201AA15083005596A5 /* BiologicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F231F1AA15083005596A5 /* BiologicalWordStore.swift */; };
+		705F23221AA16491005596A5 /* ChemicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23211AA16491005596A5 /* ChemicalWordStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		705F231B1AA13DBB005596A5 /* ITWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ITWordStore.swift; sourceTree = "<group>"; };
 		705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EthicalWordStoreJp.swift; sourceTree = "<group>"; };
 		705F231F1AA15083005596A5 /* BiologicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BiologicalWordStore.swift; sourceTree = "<group>"; };
+		705F23211AA16491005596A5 /* ChemicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChemicalWordStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 				705F231B1AA13DBB005596A5 /* ITWordStore.swift */,
 				705F231D1AA149AE005596A5 /* EthicalWordStoreJp.swift */,
 				705F231F1AA15083005596A5 /* BiologicalWordStore.swift */,
+				705F23211AA16491005596A5 /* ChemicalWordStore.swift */,
 			);
 			name = JapaneseWord;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				705F231A1AA119D1005596A5 /* OpticalWordStore.swift in Sources */,
 				705F22F21A9EBFC1005596A5 /* AppDelegate.swift in Sources */,
 				705F231C1AA13DBB005596A5 /* ITWordStore.swift in Sources */,
+				705F23221AA16491005596A5 /* ChemicalWordStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
