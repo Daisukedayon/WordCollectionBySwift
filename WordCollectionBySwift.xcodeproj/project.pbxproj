@@ -23,6 +23,7 @@
 		705F23221AA16491005596A5 /* ChemicalWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23211AA16491005596A5 /* ChemicalWordStore.swift */; };
 		705F23241AA17308005596A5 /* ElementaryWordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23231AA17308005596A5 /* ElementaryWordStore.swift */; };
 		705F23261AA18306005596A5 /* WorldHistoryWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23251AA18306005596A5 /* WorldHistoryWord.swift */; };
+		705F23281AA1923C005596A5 /* WordStoreClassManagement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 705F23271AA1923C005596A5 /* WordStoreClassManagement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		705F23211AA16491005596A5 /* ChemicalWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChemicalWordStore.swift; sourceTree = "<group>"; };
 		705F23231AA17308005596A5 /* ElementaryWordStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ElementaryWordStore.swift; sourceTree = "<group>"; };
 		705F23251AA18306005596A5 /* WorldHistoryWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WorldHistoryWord.swift; sourceTree = "<group>"; };
+		705F23271AA1923C005596A5 /* WordStoreClassManagement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordStoreClassManagement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				705F22F11A9EBFC1005596A5 /* AppDelegate.swift */,
+				705F23271AA1923C005596A5 /* WordStoreClassManagement.swift */,
 				705F22F31A9EBFC1005596A5 /* ViewController.swift */,
 				705F22F51A9EBFC1005596A5 /* Main.storyboard */,
 				705F23121A9EC107005596A5 /* EnglishWord */,
@@ -264,6 +267,7 @@
 				705F23261AA18306005596A5 /* WorldHistoryWord.swift in Sources */,
 				705F23201AA15083005596A5 /* BiologicalWordStore.swift in Sources */,
 				705F23161AA0839F005596A5 /* ModernSocialWord.swift in Sources */,
+				705F23281AA1923C005596A5 /* WordStoreClassManagement.swift in Sources */,
 				705F22F41A9EBFC1005596A5 /* ViewController.swift in Sources */,
 				705F231A1AA119D1005596A5 /* OpticalWordStore.swift in Sources */,
 				705F22F21A9EBFC1005596A5 /* AppDelegate.swift in Sources */,

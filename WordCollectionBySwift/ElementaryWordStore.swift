@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ChemicalWordStore{
+class ElementaryWordStore{
     class func returnCaption() -> String{
         return "一般用語"
     }
